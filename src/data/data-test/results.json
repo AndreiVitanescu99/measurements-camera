@@ -1,0 +1,243 @@
+{
+  "results": [
+    [
+      {
+        "id": "0jMUzD6k5xRWR4fHXCud",
+        "productId": {
+          "name": "Work Overalls",
+          "id": "2MqVMkmjlKzT4Xk9ktJJ"
+        },
+        "collectionId": "Work Apparel",
+        "updatedAt": "2025-07-31T05:41:48.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "latzhose-minus-5",
+        "size": "48/50"
+      },
+      {
+        "id": "1FnvFYyc8yfnSXhcvYGA",
+        "productId": {
+          "name": "Jacket Polo Racing",
+          "id": "CPPrAsNQp204XqU2yKoh"
+        },
+        "collectionId": "Construction Site",
+        "updatedAt": "2025-07-31T05:41:48.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "bundjacke",
+        "size": "S"
+      },
+      {
+        "id": "FiIxlohdAe5ROZLYdLoo",
+        "productId": {
+          "name": "T-Shirt Polo Racing",
+          "id": "R4xMM1s7j15Lx2aKq62b"
+        },
+        "gender": "",
+        "collectionId": "Construction Site",
+        "updatedAt": "2025-07-31T05:41:48.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "tshirt",
+        "size": "L"
+      },
+      {
+        "id": "HEwW7itvTHFfPTSLqbey",
+        "productId": {
+          "name": "Factory Work Overalls",
+          "id": "7UXOAnR5APPh1DWqFBCS"
+        },
+        "collectionId": "Factory",
+        "updatedAt": "2025-07-31T05:41:48.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "latzhose-minus-5",
+        "size": "48/50"
+      },
+      {
+        "id": "OuTCLEBYZnVpyqvCosz9",
+        "productId": {
+          "name": "Work Jacket",
+          "id": "4VlOUVq7klsFHpUeGxla"
+        },
+        "gender": "",
+        "collectionId": "Work Apparel",
+        "updatedAt": "2025-07-31T05:41:48.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "bundjacke-minus-5",
+        "size": "S"
+      },
+      {
+        "id": "TF5AidZ0QNXkPQgFOCqO",
+        "productId": {
+          "name": "Heat-Resisting Work Pants",
+          "id": "WveT95O1gk24Flop4byS"
+        },
+        "gender": "",
+        "collectionId": "Heat Resisting",
+        "updatedAt": "2025-07-31T05:41:48.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "bundhose-minus-5",
+        "size": "M+"
+      },
+      {
+        "id": "UlmtNhey8JKbunyI6Q2w",
+        "productId": {
+          "name": "Men's T-Shirt",
+          "id": "ccM5Zy94p7a9ZP6h6uW6"
+        },
+        "gender": "",
+        "collectionId": "Basics",
+        "updatedAt": "2025-07-31T05:41:48.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "tshirt",
+        "size": "L"
+      },
+      {
+        "id": "tq3f9HMwt7IUqOxIIyMy",
+        "productId": {
+          "name": "Baseball Jacket",
+          "id": "CmAZS7299ju4tNByF90w"
+        },
+        "collectionId": "Sports",
+        "updatedAt": "2025-07-31T05:41:48.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "bundjacke-minus-5",
+        "size": "S"
+      },
+      {
+        "id": "7epKCSdztVK8WeBfE4gk",
+        "productId": {
+          "name": "Baseball Jacket",
+          "id": "CmAZS7299ju4tNByF90w"
+        },
+        "collectionId": "Sports",
+        "updatedAt": "2025-07-04T06:03:51.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "bundjacke-minus-5",
+        "size": "XS"
+      },
+      {
+        "id": "HSBseg84IYqH7DJ4ePdA",
+        "productId": {
+          "name": "Retailer T-Shirt",
+          "id": "v5SK8hw8osa7IMx5CODT"
+        },
+        "gender": "",
+        "collectionId": "Hypermarket Retailer",
+        "updatedAt": "2025-07-04T06:03:51.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "tshirt",
+        "size": "S"
+      },
+      {
+        "id": "MiPNDrKuvPhojoSs5uty",
+        "productId": {
+          "name": "Factory Work Pants",
+          "id": "tJowrWREFiLWjop5r8gj"
+        },
+        "collectionId": "Factory",
+        "updatedAt": "2025-07-04T06:32:42.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "bundhose",
+        "size": "XS+"
+      },
+      {
+        "id": "QPZLuT1LvBpAjM5J4HvF",
+        "productId": {
+          "name": "Work Overalls",
+          "id": "2MqVMkmjlKzT4Xk9ktJJ"
+        },
+        "collectionId": "Work Apparel",
+        "updatedAt": "2025-07-04T06:03:51.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "latzhose",
+        "size": "40/42"
+      },
+      {
+        "id": "T2BsvUt00fivyXMsd2kQ",
+        "productId": {
+          "name": "Cotton T-Shirt",
+          "id": "rL2fsven1NXhJ6TItaYd"
+        },
+        "gender": "unisex",
+        "collectionId": "Basics Organic Cotton",
+        "updatedAt": "2025-07-04T06:03:51.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "tshirt",
+        "size": "S"
+      },
+      {
+        "id": "hpr5EswtP78K5mqBEy5k",
+        "productId": {
+          "name": "Construction Site Jacket",
+          "id": "gy4S6YGdJWN1a3q2g1yG"
+        },
+        "collectionId": "Construction Site",
+        "updatedAt": "2025-07-04T06:32:42.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "bundjacke-minus-5",
+        "size": "XS"
+      },
+      {
+        "id": "hrLK9HCaefeCuZkagaui",
+        "productId": {
+          "name": "Factory Work Overalls",
+          "id": "7UXOAnR5APPh1DWqFBCS"
+        },
+        "collectionId": "Factory",
+        "updatedAt": "2025-07-04T06:32:42.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "latzhose",
+        "size": "40/42"
+      },
+      {
+        "id": "lsAlm34CnKh48q6AIVwt",
+        "productId": {
+          "name": "Work Jacket",
+          "id": "4VlOUVq7klsFHpUeGxla"
+        },
+        "gender": "",
+        "collectionId": "Work Apparel",
+        "updatedAt": "2025-07-04T06:03:51.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "bundjacke-minus-5",
+        "size": "XS"
+      },
+      {
+        "id": "mKNJXUEMmVPp6sDqOzbN",
+        "productId": {
+          "name": "Heat-Resisting Work Pants",
+          "id": "WveT95O1gk24Flop4byS"
+        },
+        "gender": "",
+        "collectionId": "Heat Resisting",
+        "updatedAt": "2025-07-04T06:32:42.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "bundhose",
+        "size": "XS+"
+      },
+      {
+        "id": "ppdv4NixVgLOsjIYWDPm",
+        "productId": {
+          "name": "Polo Shirt",
+          "id": "vencUAdmBATLNCRXPoTZ"
+        },
+        "gender": "",
+        "collectionId": "Day-to-Day",
+        "updatedAt": "2025-07-04T06:32:42.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "tshirt",
+        "size": "S"
+      },
+      {
+        "id": "znymi83s3xDFZgMNYiai",
+        "productId": {
+          "name": "Work Wear Jacket",
+          "id": "rsBFp8tCCYA1lHNRwfhE"
+        },
+        "collectionId": "WorkerPro Collection",
+        "updatedAt": "2025-07-04T06:03:51.000Z",
+        "recommendedBy": "John Doe",
+        "variationId": "latzhose",
+        "size": "40/42"
+      }
+    ]
+  ]
+}

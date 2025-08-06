@@ -1,0 +1,45 @@
+{
+  "persons": [
+    {
+      "id": "NWZLXZVB9Logxxxxxxx",
+      "status": "done",
+      "personData": {
+        "companyId": "Workwear Company",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "lastMeasurementId": "mtm437ca658_ca0c_4727_8906_88aeb4e84764",
+        "measurements": [
+          "mtm437ca658_ca0c_4727_8906_88aeb4e84764"
+        ],
+        "trackingId": "tidbfb39578_edc1_4139_94a8_f108073a6fcc"
+      }
+    },
+    {
+      "id": "E61kvR1EEn3fw3xxxxxx",
+      "status": "invited",
+      "personData": {
+        "companyId": "Workwear Company",
+        "email": "bill.doe@example.com",
+        "firstName": "Bill",
+        "lastName": "Doe",
+        "trackingId": "tidc63fa8df_85ee_4718_8b16_bb9d9f9d60da"
+      }
+    },
+    {
+      "id": "1PQucYHyg4SuH3xxxxxx",
+      "status": "done",
+      "personData": {
+        "companyId": "Workwear Company",
+        "email": "ella.doe@example.com",
+        "firstName": "Ella",
+        "lastMeasurementId": "mtmbc6e7b3e_7985_43ef_ada8_d147e1145337",
+        "lastName": "Doe",
+        "measurements": [
+          "mtmbc6e7b3e_7985_43ef_ada8_d147e1145337"
+        ],
+        "trackingId": "tid597cbd38_2920_4bdd_9603_eb5baaa96ab0"
+      }
+    }
+  ]
+}

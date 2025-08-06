@@ -1,0 +1,21 @@
+{
+  "invites": [
+    {
+      "id": 0,
+      "accessPoint": "email",
+      "personId": "E61kvR1EEn3fw3xxxxxx",
+      "firstName": "Bill",
+      "lastName": "Doe",
+      "email": "bill.doe@example.com"
+    },
+    {
+      "id": 1,
+      "accessPoint": "email",
+      "measurementId": "mtmbc6e7b3e_7985_43ef_ada8_d147e1145337",
+      "personId": "1PQucYHyg4SuH3xxxxxx",
+      "firstName": "Ella",
+      "lastName": "Doe",
+      "email": "ella.doe@example.com"
+    }
+  ]
+}
